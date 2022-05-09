@@ -1,0 +1,15 @@
+Dear  Xingquan (Hill) Zhu, 
+
+We would like to welcome you to the program committee of The 2007 International Conference on Data Mining (DMIN'07). 
+
+Please log in to our conference management system http://dmin07.confmaster.net/ and complete your registration by providing your details and your areas of interest for the reviews within the next 7 days (you will be able to change login and password after the first login).
+If you have any questions, please contact the DMIN'07 Conference Staff at programme-chair@dmin-2007.com.
+
+Please feel free to recommend further members to serve as reviewers. You may do so by using the conference management system under 'Reviewer Management'. Click on 'Add' in the top right corner and enter the email addresses. This way you will be able to suggest new reviewers and reassign papers assigned to you to external experts and members of your team. If you wish to nominate additional members for the DMIN'07 programme committee please contact the conference chair directly. The final acceptance and nomination email for reviewers will be sent out by the Programme Chairs.
+
+Also, please take an active role in promoting the conference. The ASCII Call for Papers may be found on the conference website. We thank you in advance for your time and support and for helping to make DMIN'07 a successful conference. More importantly, we look forward to your own paper submissions and seeing you in Las Vegas! 
+
+Best regards, 
+
+The DMIN'07 Programme Chairs 
+Robert Stahlbock, Sven F. Crone, Stefan Lessmann

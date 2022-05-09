@@ -1,0 +1,34 @@
+ICDE 2007 HIGHLIGHTS
+We have an exciting program designed to appeal both to researchers and
+to data engineering professions. It includes:
+- 3 keynote speeches;
+- 5 Advanced technology seminars (no additional fee);
+- Presentations of 111 research papers and 11 industrial papers 
+  out of 659 submissions;
+- 55 poster papers and 28 demos;
+- 15 workshops in conjunction with the main conference;
+- Banquet
+
+KEYNOTE SPEECHES
+- Yannis Ioannidis, Emerging Open Agoras of Data and Information,
+  April 17, 2007
+- Ricardo Baeza-Yates, Challenges in Distributed Web Retrieval, 
+  April 18, 2007
+- Laura M. Haas, Information for People, 
+  April 19, 2007
+
+ADVANCED TECHNOLOGY SEMINARS
+- Ehud Gudes, Graph Mining - Motivation, Applications and Algorithms,
+  April 20, 2007
+- Hanan Samet, Techniques for Similarity Searching in Multimedia
+  Databases, 
+  April 18, 2007
+- Ashraf Aboulnaga, Christiana Amza, Ken Salem, Virtualization and
+  Databases: State of the Art and Research Challenges, 
+  April 19, 2007
+- Yannis Ioannidis,  Georgia Koutrika, Personalized Systems: Models
+  and Methods from an IR and DB perspective, 
+  April 18, 2007
+- Limsoon Wong, An Introduction to Knowledge Discovery Applications
+  and Challenges in Life Sciences, 
+  April 17, 2007

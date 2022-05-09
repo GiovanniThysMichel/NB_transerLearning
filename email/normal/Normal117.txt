@@ -1,0 +1,28 @@
+Keynote Speakers (confirmed)
+
+ 
+
+Professor Janusz Kacprzyk, Deputy Director for Scientific Affairs, Polish Academy of Sciences, Poland
+
+Professor Bogdan Gabrys, Computational Intelligence Research Group, Bournemouth University, UK
+
+ 
+
+Conference background and goals
+
+ 
+
+The First European Conference on Data Mining (ECDM’07) is aimed to gather researchers and application developers from a wide range of data mining related areas such as statistics, computational intelligence, pattern recognition, databases and visualization. ECDM’07 is aimed to advance the state of the art in data mining field and its various real world applications. ECDM’07 will provide opportunities for technical collaboration among data mining and machine learning researchers around the globe. Main tracks have been identified (see below). However innovative contributions that do not fit into these areas will also be considered since they might be of benefit to conference attendees. 
+
+ 
+
+Format of the Conference 
+
+ 
+
+The conference will comprise of invited talks and oral presentations. The proceedings of the conference will be published in the form of a book and CD-ROM with ISBN, and will be available also in the IADIS Digital Library (available on-line). The best paper authors will be invited to publish extended versions of their papers in the IADIS Journal on Computer Science and Information Systems (ISSN: 1646-3692) and also in the following Journals. 
+
+- International Journal of Computational Intelligence Research (special issue on advances in data mining)
+
+- Journal of Information Assurance and Security (special issue on data mining and information security)
+

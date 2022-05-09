@@ -1,0 +1,21 @@
+Hi Anish,
+
+I have sent a more detail E-mail about the problem that we had today.
+The problem was actaully not too serious. I was improperly handling
+null values in the stored procedures. 
+
+The more serious problem is the 'null' value and what seems to be 
+corrupted data in the RadioSW column. Because this will effect the Web 
+interface. We can probably find a way of handling it in the web 
+interface. But we will need to find out the cause of it in the first 
+place.
+
+My theory is that the raw log for the new testids were from ADTE 
+version that is not truely compatible with the new parser.
+
+Anyway I do not think there is a need for you to come in on Monday.
+
+So Enjoy the rest of Your Vacation!
+
+Thanks,
+Pateep

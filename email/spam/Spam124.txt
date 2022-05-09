@@ -1,0 +1,20 @@
+This email is to alert you that Intel(R) Integrated Performance 
+Primitives for Windows* evaluation will expire as of Dec 28, 2006. 
+
+Product Serial Number: VFNW-FMBMPFM9 
+Product Name: Intel(R) Integrated Performance Primitives for Windows* 
+Support Type: evaluation 
+License Type: SingleUser
+
+PRODUCT PURCHASE
+If you decide to purchase this product after your evaluation, you may 
+purchase a license from one of following channels:
+* Buy online directly from Intel at  
+http://www.intel.com/software/products/ipp  
+* Buy from a reseller that is local to you 
+http://www.intel.com/software/products/resellers
+* Contact us directly at Intel.Software.Sales@intel.com .
+
+TECHNICAL SUPPORT
+Access your support resources at 
+http://www.intel.com/software/products/support .

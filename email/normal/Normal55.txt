@@ -1,0 +1,23 @@
+Dear authors of ICDE accepted paper 1003,
+
+thank you for sending me a new PDF version of your paper. Unfortunately, 
+the new version has failed the IEEE format-compliance test conducted by 
+my assistants.
+
+I believe the problem is with the IEEE format-compliance checker. To 
+help us resolve this problem with the IEEE support team, could you send 
+me by email
+two things before 11:59pm PST on Friday December 15, 2006:
+
+(1) the IEEE-checker receipt showing that your file has successfully 
+passed the test, and
+
+(2) the account name that you used to do the IEEE format-compliance 
+checking; I believe that the name of the author doing the checking is 
+enough.
+
+
+Many thanks for your help and best regards,
+
+Rada Chirkova
+ICDE-07 proceedings chair

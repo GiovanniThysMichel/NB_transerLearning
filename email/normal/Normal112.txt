@@ -1,0 +1,8 @@
+Please review the plan above and let us know by <Date TBD> if retiring any of this software from general support imposes a significant burden to your Department and/or the client community you support by sending email to swrt@mit.edu. If significant burdens are apparent, we are prepared to work with you to find solutions to ease the difficulties in migrating to a more current environment. 
+
+In closing, we appreciate the Community's assistance and involvement in Software Release and look forward to your responses by <insert date> 
+
+Deb Bowser
+QA Coordinator - Client Support Services
+Information Services and Technology (IS&T)
+

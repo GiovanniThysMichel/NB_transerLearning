@@ -1,0 +1,32 @@
+Hi Hill and xindong,
+
+The presentation at IJCAI went very well.  After my presentation, many
+people tried to ask questions, which shows the real interest in this topic
+(as opposed to other presentations, where there are no questions).  After
+the session people come to me and say nice things about the paper.
+
+I summarize three main questions:
+
+1. What is the relationship between sequential noise patterns in this
+paper and that learned by a hierarchical hidden markov model?
+
+(my answer: need a deeper understanding of relation between sequential
+frequent patterns which is model-less, and a hidden markov model is
+model-based)
+
+2. What if you grow patterns in the opposite way, by incrementally
+deleting letters from a long pattern?  Can you now use a variation of
+apriori again?
+
+(my answer: while this is possible, it might be hard for caching (map) to
+work due to the nature of dynamic programming algo).
+
+3. why not apply data cleaning first to remove all gaps, then insert them
+later to ease the mining?
+
+(my answer: gaps also convey information so a window size is determined
+based on prior knowledge).
+
+best!
+
+- Qiang

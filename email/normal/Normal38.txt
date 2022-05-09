@@ -1,0 +1,9 @@
+Folks,
+ We have enabled the anti-spam/anti-virus appliance around 11:00 AM today. Due to some mis-communication with IRM, the change was done earlier in the day (around 8 AM) and so incoming mail was queued from 8 AM to 11 AM and not delivered to your mailboxes. This has been resolved.
+ 
+A few of you expressed the need to "manage" your incoming spam inbox so you can review it for any good emails. You will be receiving an email with your login and password into the spam inbox so you can review any blocked emails and whitelist them.
+ 
+We will be testing the appliance for a few days to see how well things go. I will setup some training sessions (30 minutes long) to go over the basics of spam prevention and train those of you interested in learning more.
+ 
+thanks,
+mahesh

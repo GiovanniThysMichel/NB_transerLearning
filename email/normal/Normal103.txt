@@ -1,0 +1,30 @@
+Hi, Everyone,
+
+The students of CAP5615 (Intro. to Neural Networks) are practising a spam 
+filtering approach, which needs a large number of email samples.
+While spam emails are pretty easy to find, we found that building a 
+representative nonspam email sample set is difficult, due to reasons such as 
+privacy.
+
+We thus ask for your kind assistance in helping us build this sample set. We 
+would greatly appreciate it if you can forward us (xqzhu@cse.fau.edu) one or 
+two non-spam emails from your regular email box (those with minimal privacy 
+concerns).
+
+Requirement:
+
+Any email which is not a spam email will do, however, we prefer the ones 
+with more than 50 words.
+
+
+Thank you very much.
+
+Best,
+
+Hill
+
++ + + + + + + + + +
+Xingquan (Hill) Zhu,  Ph.D.  Assistant Professor
+Dept. of Computer Science & Eng., Florida Atlantic University
+777 Glades Road - S&E 366, Boca Raton, FL 33431
+Telephone: +1-561-297-3168, Fax: +1-561-297-2800

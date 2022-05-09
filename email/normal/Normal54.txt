@@ -1,0 +1,11 @@
+Hi XINGQUAN ZHU,
+     Nice to meet you. Let me introduce myself to you first. My name is XueYan Hu, a Ph.D. Candidate at Peking University Beijing China. My research area is data mining. I have read your many papers; your creativity and talent are amazing. Especially I am interesting at your paper "Mining in Anticipation for Concept Change: Proactive-Reactive Prediction in Data Streams" in  2006. Would you give me the code of generating synthetic data and the algorithms' source code?
+
+  
+
+  
+
+Yours sincerely, 
+
+       XueYan Hu
+

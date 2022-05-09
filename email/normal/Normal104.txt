@@ -1,0 +1,9 @@
+Hill,
+
+A quick "numerical analysis" type question when implementing the 
+classifier:
+
+The product of probabilities quickly vanish to zero if I used the 
+formula from the slides for Naieve Bayes.  Is there some way of 
+expressing this product either as a recurrence (as in the Birthday 
+Problem) or in a logarithmically scaled form?

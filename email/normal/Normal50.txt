@@ -1,0 +1,158 @@
+Secure Systems Research Group activities
+
+In the Spring semester, starting from January 12,  we will meet on
+Fridays at 9:30 a.m. in Room 303.
+
+Coming meetings. Thursdays at 9:30 am, Room S&E 303 unless otherwise
+announced.  Look in
+  http://www.cse.fau.edu/~security for slides of past talks
+
+
+--Thursday, January 4, 2007,  Alvaro Escobar, "Contexts and web
+services". Ph.D. Progress Report.
+
+--Friday, January 12, Juan Pelaez, "VoIP architectures"
+
+--Friday, January 19, Ajoy Kumar, "IDS and VPN architectures"
+
+
+News:
+
+--The paper: Nelly Delessy and E.B.Fernandez, "Adapting web services
+security standards for
+     mobile and wireless environments", was sent to the 2007
+International Workshop on Application
+    and   Security service in Web and pervAsive eNvirionments (ASWAN
+2007),
+    June 16-18, 2007, HuangShan (Yellow Mountain), China,
+   http://www.chu.edu.tw/~aswan07 <http://www.chu.edu.tw/%7Easwan07>
+
+Old stuff, still relevant:
+
+
+--The paper E.B.Fernandez, C. Pertuz, and M.M.Larrondo-Petrie, "A
+security pattern for Pipes and Filters",
+     was sent to LACCEI 2007.
+
+--The paper E.B.Fernandez, J.Ballesteros, A. Desouza-Doucet, and
+M.M.Larrondo-Petrie,
+    "Security patterns for physical access control systems", was sent to
+the First Annual IFIP WG 11.10
+    Int. Conf. on Critical Infrastructure Protection.
+
+--The paper : Mei Fullerton and E.B.Fernandez, "An analysis pattern for
+Customer Relationship
+    Management (CRM)", was sent to SugarLoafPLoP'2007.
+
+--The paper  E. B. Fernandez, D. L. laRed M., J. Forneron, V. E. Uribe,
+and G. Rodriguez G.
+   "A secure analysis pattern for handling legal cases", was sent to
+SugarLoafPLoP'2007.
+
+--Dr. Jan Jurjens, from the Open University of London, gave an
+interesting  talk on Monday,
+    December 11 about model-based security engineering. We had 10 people
+attending, almost all the group.
+
+--The paper: E.B.Fernandez and M.M.Larrondo-Petrie, "A methodology to
+build secure systems using patterns",
+    was presented in the session of Works in Progress at the 22nd Annual
+Computer Security Applications
+    Conference (ACSAC), Miami Beach, FL, Dec. 11-15.
+http://www.acsac.org/
+    Maria and I attended this conference. Juan took a tutorial on
+computer forensics.
+
+--I sent the proofs for the paper: E. B. Fernandez and M. M.
+Larrondo-Petrie,
+    "Securing design patterns for distributed systems". This will appear
+as Chapter 3 in "Security in
+    distributed, grid, and pervasive computing", Y. Xiao (Ed.),  Auerbach
+Publics.,
+    CRC Press, 2006.
+
+--E. Fernandez  evaluated a paper on tools for software security being
+prepared for CMU SEI.
+
+--I completed the course on Software Architecture. Several reports were
+   quite good and some papers will come  out from them.
+
+--The paper: E.B.Fernandez, M.M. Larrondo-Petrie, and A. Escobar,
+"Contexts and context-based access
+    control", was accepted for the 3rd IEEE Int.  Conf. on Wireless and
+Mobile Communications (ICWMC 2007),
+    March 4-9, Guadeloupe, French Caribbean.
+
+--The paper: E.B.Fernandez and J.C. Pelaez, "Security patterns for voice 
+over IP networks" was accepted for the
+    2nd IEEE Int. Multiconference on Computing in the Global Information 
+Technology (ICCGI 2007),
+    March 4-9, Guadeloupe, French Caribbean.
+
+--The paper: N. Delessy, E.B.Fernandez, and M.M. Larrondo-Petrie, "A 
+pattern language for identity management",
+    was accepted for the  2nd IEEE Int. Multiconference on Computing in 
+the Global Information
+   Technology (ICCGI 2007), March 4-9, Guadeloupe, French Caribbean.
+
+--Prof. G. Pernul (U. of Regensburg, Germany) and I are organizing a
+security patterns workshop
+    at the next DEXA conference.   The web site has been announced:
+    http://www-ifs.uni-regensburg.de/spattern07/
+
+--The paper: E.B. Fernandez, J.C. Pelaez, and M.M. Larrondo-Petrie,
+"Attack patterns: A new forensic and design tool",
+    was accepted for the Third Annual IFIP WG 11.9 Int. Conf. on Digital
+Forensics, Orlando, FL, Jan. 29-31, 2007.
+    www.cis.utulsa.edu/ifip119
+
+--The tutorial: E.B.Fernandez, "Security patterns and secure systems
+design", was accepted for presentation at the
+    45th ACM Southeast Conference (ACMSE 2007), March 23-24, 2007,
+Winston-Salem, North Carolina,
+    http://acmse2007.wfu.edu <http://www.acmse2007.wfu.edu/>
+
+--E. Fernandez  reviewed a proposal for the Chilean National Fund for
+Scientific and Technological
+    Development (FONDECYT).
+
+-- E.Fernandez went to Brazil where he:
+
+           Gave a  keynote talk and a tutorial at  the Eigth 
+International Symposium on System and Information
+           Security - SSI´2006, November 08-10, 2006. 
+http://www.ssi.org.br/english/
+           This symposium was sponsored by the Aeronautical Institute of 
+   Technology - ITA,
+           Computer Science Department - IEC,  Sao Jose dos Campos,  Sao 
+Paulo, Brazil.
+            He also presented there a short paper by Prof. Oge Marques 
+and students, who could not attend the
+            symposium.
+
+           Gave a talk at the Computer Science Dept. of the University 
+of Sao Paulo on Nov. 7. Hosted by Prof.
+           Fabio Kon.
+
+--E. Fernandez joined the Program Committee of the Int. Conf. on 
+Security and Cryptography
+    (SECRYPT 2007), July 28-31, Barcelona, Spain, www.secrypt.org
+
+--E. Fernandez joined the Program Committee of  the 4th Int. Conf. on 
+Trust, Privacy,
+    and Security in Digital Business (TrustBus'07), Regensburg, Germany, 
+Sept. 3-7, 2007,
+    http://www.icsd.aegean.gr/trustbus07/
+
+--E. Fernandez has been appointed for two more years to the 
+International review Board
+    of the Int. Journal of e-Business Research (IJEBR).
+
+  --Ajoy  Kumar passed the Qualifying Exam and is now a Ph. D. 
+Candidate. I forgot to mention earlier this year
+     that  Juan Pelaez also became a Ph. D. Candidate. So the group has 
+now four candidates (the others are Nelly
+     Delessy and Alvaro Escobar ).  We also have one MS doing thesis, 
+Pat Morrison, to be joined shortly by
+     Barkha Herman who has applied for candidacy and later by Carlos 
+Pertuz.

@@ -1,0 +1,12 @@
+Dear Mr. Zhu,
+
+I'm Victor M. Gulias, a lecturer at University of Coruña (Spain), head
+of a group working in distributed systems; we use multimedia servers as
+interesting case study.
+
+Looking for information on video processing techniques, I have found a
+paper of you describing the InsightVideo system. I was wondering if you
+can tell me a little bit about it and related work; It would be nice to
+start productive collaboration, if you consider it possible.
+
+Best Regards,

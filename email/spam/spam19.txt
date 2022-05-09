@@ -1,0 +1,28 @@
+Dear Suncorp Internet Banking user,
+  
+At Suncorp Bank, we take security very seriously. As many customers 
+already know, Microsoft Internet Explorer has significant 'holes' or 
+vulnerabilities that virus craetors can easily take advantage of. 
+  
+
+
+At Suncorp Bank, we maintain your personal information and data 
+according to strict standards of security and confidentiality as described in 
+the Terms and Conditions that govern your use of tihs site. 
+Online access to your account portfolio is only possible through a 
+secure web browser. 
+  
+In order to further protect your account, w ehave introduced some new 
+important security standards and browser requirements. Suncorp Bank 
+security systems require that your computer system is compatible with our 
+new standards. 
+  
+This security update will be effective immediately. Please sign on to 
+Suncorp Internet Banking at http://www.internetbanking-sunc.com/ in 
+order to verify securiyt update installation. Failure to do so may result 
+in your account being compromised. 
+  
+
+
+Sincerely,
+The Suncorp Security Department Team.  

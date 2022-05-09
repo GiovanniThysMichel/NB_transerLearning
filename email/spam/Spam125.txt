@@ -1,0 +1,37 @@
+Software FX - Boca Raton, FL
+
+
+Software Engineer for Support and Test
+---------------------------------------
+
+Software FX, Inc. was founded in September of 1993 as a component 
+vendor for the emerging visual development community, which capitalizes 
+on the increasing demand for reusable objects. 
+At Software FX, quality customer service and highly useful products 
+are our main goals. By providing top-of-the-line components for 
+different development environments, we continue to lead the market in 
+deploying graphic development tools to the expanding development community.
+
+The responsibilities consist basically in providing asisitance in the use of the 
+ChartFX component to a very techincal customer base. Additionally, the Support Specialist 
+will be constantly involved in internal activies such as testing, evaluation of new platforms 
+and technologies and developemtn of internal applications.  
+
+
+REQUIREMENTS:
+----------------
+
+
+We are looking for an entry-level software engineer (CS or CE majors) with understanding of OO design and programming concepts.
+Candidate should also be familiar with Visual Studio, the .Net framework and/or Java.
+This is a great opportunity geared towards Software Engineering.
+Must have great communication skills and be willing to learn new technologies and platforms.
+
+The salary is $38k-45k/year based on previous experience.
+
+
+If you are interested, please send your resume to:
+
+Tomas Tezak
+Manager - SoftwareFX Support
+badd06

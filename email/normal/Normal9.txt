@@ -1,0 +1,14 @@
+Pateep & Jason,
+
+The RALPToDB tool will populate the two new fields in the DB. Based on
+our earlier discussion I was going to supply you with the TestIDs once
+all of the data was processed and populated in the DB. But since you
+have made changes to support report-generation based on TransactionID
+alone the only point that needs to be cleared/resolved is 'when' will
+Jason call your SDs. Since I generate a report
+(report_<TransactionID>.txt) file on completion of my processing, that
+would be a good indication that the data is in the DB.
+
+Regards,
+Anish
+

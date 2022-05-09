@@ -1,0 +1,47 @@
+Job opportunities: two full-time and one on campus part-time openings
+
+1. Full-time openings
+
+                     DOCUTEK IMAGING SOLUTIONS
+                     -------------------------
+
+LAMP WEB DEVELOPER/PROGRAMMER
+
+  We are looking for a PHP/MySQL developer to join a busy technology team
+  producing cutting edge, high profile websites. Fully confident in HTML and
+  CSS, the candidate will be able to produce both static and data driven 
+  websites from flat design files and develop CMS systems for back-end 
+  administration. Object oriented application development and maintenance 
+  will feature heavily in the chosen candidate's workload. 
+
+  The candidate will be expected to help in the creative development process
+  as well as the production of high quality, robust and reliable LAMP based 
+  applications. 
+
+  Required skills: PHP, MySQL, HTML, CSS 
+  Useful skills: Apache, Linux, Photoshop, Illustrator, Flash 
+
+  Please send resumes to John Gills.  Email:  JGILLS@DOCUTEKSOLUTIONS.COM
+
+
+DOCUMENT MANAGEMENT TECHNICAL SPECIALIST
+
+  We are looking for a document management integration specialist to join our
+  technical team.  This candidate will work with clients and sales consultants
+  to design and implement document management solutions.  Strong skills in
+  relational data base technology are needed. 
+
+  Candidates must be able to work with IT teams to aid in the extraction of
+  line-of-business application data.  Windows based networking competency
+  required.  The candidate will be an integral part of the sales process.
+  Professional appearance and communication skills are a must.
+
+  Required skills: SQL, RDBMS
+  Useful skills: XML, MySQL, MSSQL, programming experience
+
+  Please send resumes to John Gills.  Email:  JGILLS@DOCUTEKSOLUTIONS.COM
+
+
+2. Part time on campus from Career Development Center
+
+     http://www.fau.edu/cdc/Flyers/gatechsupport07.pdf

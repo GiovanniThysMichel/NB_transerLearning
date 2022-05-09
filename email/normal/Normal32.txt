@@ -1,0 +1,11 @@
+Folks,
+ The Z: Drive issue still persists and we are working with IRM to trace down
+the problem. We do not have an ETA as of yet but the is a good chance that
+the problem will not be resolved until the weekend. We will be trying some
+options with IRM over the afternoon and I will provide an update around 3
+PM.
+ 
+The problem appears to be related to some recent changes to the FAU Servers
+along with some recent Microsoft patches. 
+ 
+mahesh

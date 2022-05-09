@@ -1,0 +1,5 @@
+After discussions with key users around campus, Information Services and Technology (IS&T) is reducing support on December 31, 2004 for the applications listed below. 
+
+Our review suggests that in order to maintain quality support for key applications in use, to improve responsiveness to new vendor releases, and to make it possible to introduce new product offerings, it is necessary to downgrade the support we will provide in the future for the following older applications. These products will not be tested in association with future releases, new documentation will not be produced, and new training will not be scheduled. 
+
+Software slated for retirement on December 31, 2004

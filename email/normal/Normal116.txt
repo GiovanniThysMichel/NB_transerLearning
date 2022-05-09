@@ -1,0 +1,31 @@
+ICWE invites proposals for tutorials that will provide conference participants with the opportunity to gain knowledge and insights in a broad range of Web engineering areas. Participants at the tutorials include researchers, scientists and practitioners who are seeking to gain a better understanding of the technologies, methodologies, tools, and techniques used to develop and maintain Web-based applications. A one-page summary of the accepted tutorials will be included in the conference proceedings.
+
+Proposed tutorials can be either 1.5 or 3 hours long. Tutorials should address issues related to the topics of the conference. Topics not mentioned in the general conference list are also encouraged as long as they are of special interest and relevance to ICWE.
+
+PROPOSAL FORMAT
+Proposals must be no more than 3 pages and must provide a sense of both the scope of the tutorial and depth within the scope. The intended length of the tutorial (1.5 or 3 hours) should also be indicated, together with justification that a high-quality presentation will be achieved within the chosen time period and the indication of the main learning outcomes. 
+
+In detail, tutorial proposals must include the following information:
+
+- Tutorial title
+- Tutorial abstract: 1-2 paragraphs describing the contents and goals of the tutorial to be included in the conference registration materials.
+- Intended Length: 1.5 or 3 hours
+- Description of the tutorial providing the scope (general topic area) and depth of the proposal, as well as its aims and learning outcomes.
+- Intended audience and the assumed background 
+- Presenter(s) contact information: name, affiliation, email, and optionally mailing address, phone and fax numbers
+- Presenter(s) short biography demonstrating that she/he is an expert on the subject of the tutorial to be included in the conference registration material
+- Relevant references
+- If the proposed tutorial has been given previously, indication of the event where the tutorial has been given and how it will be modified for ICWE 2007
+- Sample slides - if available
+
+
+PROPOSAL SUBMISSION 
+Proposals must be submitted electronically to the Tutorial Chair (mpetropo@cse.buffalo.edu) in PDF format. For additional questions or clarifications please feel free to contact the ICWE 2007 Tutorial Chair.
+
+PUBLICATION OF ACCEPTED TUTORIALS
+Upon acceptance, presenters of accepted tutorials will be required to prepare a one-page summary of the tutorial by the camera-ready copy deadline to be included in the Springer Verlag LNCS official proceedings of the conference (on paper and on CD). Presenters should also make the slides available to the ICWE participants, either in hardcopy form or on-line.
+
+IMPORTANT DATES
+- Tutorial submission deadline: February 17, 2007
+- Notification of acceptance: April 1, 2007
+- Camera-ready copy of the one-page summary: April 19, 2007

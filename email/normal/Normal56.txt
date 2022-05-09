@@ -1,0 +1,37 @@
+Department talk
+Today at 3:30 pm
+Room 309 Science &Eng. Building
+ 
+                 Model-based Security Engineering
+ 
+                          Dr. Jan Jurjens
+ 
+The current state of the art in security-critical software is far from
+satisfactory: New security vulnerabilities are discovered on an almost
+daily basis. To improve this situation, we have developed techniques and
+tools that perform an automated analysis of software artifacts for
+security requirements (such as secrecy, integrity, and
+authenticity). These artefacts include specifications in the Unified
+Modeling Language (UML), annotated source code, and run-time data such
+as security permissions. The security analysis techniques make use of
+model-checkers and automated theorem provers for first-order logic. We
+give examples for security flaws found in industrial software using
+our tools.
+ 
+ 
+Jan Jurjens is a Senior Lecturer (comp. US Assoc. Prof.) at The Open
+University (the British distance university in Milton Keynes near
+London), having previously lead the Competence Center for
+IT-Security, Software & Systems Engineering, TU Munich (Germany).
+Doctor of Philosophy in Computing from the University of Oxford and
+author of "Secure Systems Development with UML" (Springer, 2004), "IT
+Security" (Springer 2007), and various publications on computer
+security and safety and software engineering. Founding chair of the
+working group on Formal Methods and Software Engineering for Safety
+and Security within the German Society for Informatics (GI) and member
+of the executive board of the Division of Safety and Security within
+the GI, the executive board of the committee on Modeling of the GI,
+the advisory board of the Bavarian Competence Center for Safety and
+Security, the working group on e-Security of the Bavarian regional
+government, and the IFIP Working Group 1.7 "Theoretical Foundations of
+Security Analysis and Design". 

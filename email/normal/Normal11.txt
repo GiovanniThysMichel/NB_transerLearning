@@ -1,0 +1,21 @@
+Dear Yong Suk Lee,
+
+Attached is your Payroll Remittance Advice. The password to open the 
+file includes the first 4 characters of your last name plus the last 4 
+digits of your Social Security Number. Please note that your password 
+is case sensitive. Normally, only the first character should be in caps 
+and everything else is lower case. However, if your last name is 
+spelled with multiple upper case letters, or if it has any special 
+characters or spaces, these characters or spaces will be part of your 
+password. If for example your last name is Mc Donald, and your social 
+security number is 123 45 6789, your password will be Mc D6789 (the 
+space will be one of the four characters).
+
+If your last name is less than four characters long, use your full 
+name, followed by X's (in caps) to come up with the four characters 
+plus the last four digits of your social security number. For example, 
+if your last name is Li and your social security number is 123-45-6789, 
+your password is LiXX6789.
+
+NOTE:  The attached file is in an Acrobat Reader PDF document.  If you 
+cannot read this document, please download the FREE Acrobat Reader at goodd06

@@ -1,0 +1,37 @@
+Dear CSE students and faculty,
+
+I am teaching COP3813 this semester and require that each student to design
+a simple ecommerce website to sell whatever they want online. As an
+important part of the requirement, their website should allow customers to
+use "shopping cart", collect customers' selection from different web pages
+and submit the orders to the server (pluto) for further process (database
+access). This is considered to be very close to websites like Amazon.com.
+
+http://www.cse.fau.edu/~xqzhu/cop3813/homeworks/termprj.html
+
+Some of the students really did excellent job. I am sharing with you several
+good designs here. Hope you will like them.
+B.T.W. please contact the authors directly if you were ineresting in buying
+any items from their websites... :-)
+
+Enjoy your winter break.
+
+Hill
+
+++++++++++++
+Michael Anthony Monaco:
+http://student.cse.fau.edu/~MMONACO6/3813/shopping_cart/
+
+Jaime Forero:
+http://student.cse.fau.edu/~jforero5/3813/term.html
+
+Frantz Pierre, Miguel Oubina and Jean Louis:
+http://student.cse.fau.edu/~fpierr12/term.html
+
+Brian Yaciuk:
+http://student.cse.fau.edu/~byaciuk/3813/term.html
+
+Randy Christopher Fryar:
+http://student.cse.fau.edu/~rfryar/3813/term.html
+
++++++++++++++

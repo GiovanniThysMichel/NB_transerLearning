@@ -1,0 +1,27 @@
+Dear all,
+
+I should share a very exciting news with you. FAU has become a member of 
+a large LA (Latin America) Grid project launched by IBM in December 2005 
+(See a brief description below). Originally, IBM teamed up with five 
+universities (see below), however FAU has been recently added into this 
+elite group. This is a great opportunity for the FAU researchers.
+
+Dr. Lemanski, Mohammad and I will be attending in the beginning of 
+October the LA Grid Conference in Barcelona. We will present FAU 
+research interests in this area. For this presentation, we will need 
+from faculty whose research may need grid capabilities a brief 
+PowerPoint description of their research. We would appreciate if you 
+prepare 2 slides, one with bullets and one with a nice picture 
+describing your current and/or potential research activities, which will 
+need grid computing. Include your name and eventually graduate students 
+involved. Attached is the PowerPoint design template.
+
+Please, submit your contribution by *Monday, September 18*, so we can 
+include it in our presentation.
+
+Thanks.
+
+Borko
+
+Borko Furht, Ph.D.
+Chairman & Professor

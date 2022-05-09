@@ -1,0 +1,15 @@
+Dr. Zhu,
+
+You asked if the information gain due to an attribute could be negative.  I 
+looked at entropy which is between 0 1and 1. Where 0 means there no 
+randomness and no entropy to 1 when it is totally random.
+
+The information can never go negative.  If you take the extreme case of no 
+randomness where their is no randomness then the system entropy is 1.  The 
+information gain for the attribute that tells you the answer is also That is 
+because the log to the base two of 1 is zero.
+
+For the other extreme you have the attribute entopy is 0 times infinity 
+which is zero. The information gain is the system entropy.
+
+To sum it up the information gain has to be a number between 0 and 1.

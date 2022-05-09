@@ -1,0 +1,33 @@
+How to modify generic Naïve Bayes Classifier to accommodate weighted instances? 
+ 
+One way to incorporate the integral weights in Naive Bayes is to 
+transform the training dataset on the fly:
+ 
+1) Assume weights are              
+  x1a  x1b     y1        w1=2
+  x2a  x2b     y2        w2=3
+ 
+The modified dataset will look like 
+  x1a  x1b     y1        w1=2
+  x1a  x1b     y1        w1=2
+  x2a  x2b     y2        w2=3
+  x2a  x2b     y2        w2=3
+  x2a  x2b     y2        w2=3
+ 
+now use the out of box Naive Bayes algorithm and it will implicitly use the weights. 
+Only an integral weight example is shown but to accomodate weight say 1.1, input dataset can be 
+replicated 10 times to achive integral rows of relicated instances for each weight.
+ 
+This is not a very efficient means but the merit lies in using out of the box Naive Bayes algorithm,
+with the modified dataset, to accomodate weighting. Most often we cannot change commercial tools 
+for their algorithm.
+ 
+The algorithm can also be modified to do this on the fly as pre-processing of the data.
+Such approach will work for clustering also where if attributes are weighted, the columns can be replicated by integral weights
+to avoid true normalization.
+----------------------------------------------------------
+ 
+2) The second approach will be like the one suggested for decision tree, where the weights can be used when calculating the probability
+for each class. Example in the sales v/s programming we had 2 cases each and prior probabilities were 0.5 for each kind of posting.
+If we want to weight instances, say programming over sales we could use the weights of each training instance to come up with weighted 
+prior probabilities.

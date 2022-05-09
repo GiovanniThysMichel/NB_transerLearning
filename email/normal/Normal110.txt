@@ -1,0 +1,15 @@
+Good Morning, 
+
+Presently, your email account is set to auto-purge email messages older than 14 days from your "Spamscreen" folder on the MIT mail system. 
+
+IS&T wishes to alert you to an upcoming change in this service effective Monday, October 4th, 2004. We will extend the age of messages to be purged from your "Spamscreen" folder from 14 days or greater to 21 days or greater as of this change. This change is necessitated by another important upcoming enhancement in our service. Shortly, we will begin automatically creating "Spamscreen" folders for all new accounts. We are increasing the age of messages to be purged by one week to allow additional time for new MIT colleagues and students to acclimate to our environment and this important service. 
+
+More information about our service is available at: 
+
+<http://web.mit.edu/ist/services/email/nospam/> 
+
+Below, please find the Community-wide announcement which includes more complete information about these enhancements. If you have additional comments, suggestions or questions, please feel free to contact the IS&T Computing Help Desk, <computing-help@mit.edu> or me. 
+
+Cheers,
+Theresa 
+

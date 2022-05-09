@@ -1,0 +1,8 @@
+Dr. Zhu,
+
+I am a FEEDS student in your Neural Network class.
+
+I think the answer to the question regarding the maximum number of unique 
+decision trees we can possible build is infinite because that number will 
+vary depending on the technique used, the thresholds used to split nodes, 
+the number of significant attributes, and the type of attributes.

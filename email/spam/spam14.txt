@@ -1,0 +1,5 @@
+Spam detection software, running on the system "smtpsmart1.fe.aruba.it", has
+identified this incoming email as possible spam.  The original message
+has been attached to this so you can view it (if it isn't spam) or label
+similar future email.  If you have any questions, see
+http://vademecum.aruba.it/start/mail/antispam/ for details.

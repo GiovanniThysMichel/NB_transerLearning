@@ -1,0 +1,18 @@
+Thank you for your suggestion!
+
+For point 1, I had tried to make the changes but felt that the
+notations are really following the algorithm and the best notation I
+come up with (other notations become redundant and confusing).
+
+So instead, I have added more explanation to clarify... here is my
+response and the file with the update is attached.
+
+
+We feel that the current notation for pseudo-code is naturally understandable
+by readers with reasonable programming background. We could have change the
+notations but it would create confusion.  So instead of changing notations, we
+explain it explicitly at Page 8:
+
+Ending locations are collected in the scanning process commented in
+the pseudo code of PrefixExtend: t.endLoc (at line 5 of PrefixExtend)
+contains the collected ending locations that are associated with token

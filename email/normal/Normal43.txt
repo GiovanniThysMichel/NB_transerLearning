@@ -1,0 +1,39 @@
+Call for Papers
+
+SIGKDD Explorations Special Issue on Data Mining for Health Informatics
+
+Guest editors
+  Raymond Ng, University of British Columbia, rng@cs.ubc.ca
+  Jian Pei, Simon Fraser University, jpei@cs.sfu.ca
+
+
+Unlike in bioinformatics where the focus is on the biology within a cell in living organisms, the focus of health informatics is on human tissues, organs and specific medical conditions. It is concerned with patients' medical records and clinical data. Moreoever, one of the key directions of medical research for the next decade is personalized medicine. This is partly made feasible by recent advances of high throughput biotechnologies, such as comparative genome hybridization arrays, microarrays and mass spectrometry for proteomics and metabolomics.
+
+In this special issue of SIGKDD Explorations, we solicit papers on health informatics research which requires mining of large amounts of data - clinical, DNA copy number, gene expression, protein expression and/or metabolonomics data. The following is a non-exhaustive list of possible topics:
+
+- feature selection for biomarker identification
+- cross-platform combinatorial mining of genomics features
+- mining transcription factor binding sites
+- prediction models of tumor/disease development
+- correlation mining of clinic data and genomic data
+- mining proteomics and/or metabolomics data
+- data mining for personalized medicine
+- modeling signalling networks
+- temporal and spatial mining of clinic data including medical images
+
+Each paper must dedicate a significant portion of the paper (e.g., no less than 25%) describing the health problem being studied. And in light of the 2003 SIGKDD Explorations special issue on microarray data mining, papers which focus solely on microarray data should include new developments since 2003.
+
+Schedule
+
+- Deadline for submissions: March 30
+- Notifications: April 30
+- Camera-ready due: May 15
+- Final issue handed to the editors: June 1
+
+Submissions
+
+All submissions should be made in PDF file following the SIGKDD Explorations format as shown in the templates and samples on the SIGKDD Explorations Web site.
+
+Submissions should be made via email to the co-guest editors: Dr. Raymond Ng (rng@cs.ubc.ca) and Dr. Jian Pei (jpei@cs.sfu.ca).
+
+Potential contributors are welcome to discuss their intentions and interest with the co-guest editors.

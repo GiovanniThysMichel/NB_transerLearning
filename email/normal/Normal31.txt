@@ -1,0 +1,9 @@
+As many of you already know, there is a new strand of malware on the Internet called Trojan.Peacomm that has infected thousands of computers world-wide. While this malware has been contained on the FAU network, to ensure that similar types of malware do not infect our network, we are highly recommending that all anti-virus/anti-spam software be upgraded to the latest version.
+
+To simplify this process, starting Jan 31 and continuing through Feb 5, IRM will be automatically pushing the latest version of Symantec anti-virus/anti-spam software out to all desktop computers that are part of IRM domain. We will be doing this in the early morning, and your system will likely automatically reboot at 5am on the day it gets the new software.
+
+If you are running custom programs and do not wish for your systems to be included as part of this upgrade, please submit a ticket to the IRM Helpdesk at http://www.fau.edu/helpdesk.  Select the request type "Other" and indicate that you do not wish for your system to be automatically upgraded. Please include your system IP number, your name, and your office location in the ticket.  Systems and servers located on the special subnet 96 will not be automatically upgraded.  If you have a laptop computer and need to upgrade the anti-virus/anti-spam software, please submit a ticket to the IRM Helpdesk and we will route it to your campus or college IT consultant.
+
+
+Posted by:
+Information Resource Management
